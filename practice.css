@@ -1,0 +1,45 @@
+body {
+background-color: #cfb3e767;
+} 
+
+
+.header {
+    width: 100%; 
+    height: 70vh;
+    object-fit: cover;
+    object-position: center;
+    box-shadow: rgb(37, 37, 4) 10px 10px 10px;
+}
+.title-center{
+
+    display: flex;
+    justify-content: center;
+    /* padding:100px; */
+}
+
+.g-link{
+    text-decoration: none;
+    border: 1px solid  rgb(70, 126, 37);
+    background-color: rgb(70, 126, 37);
+    color:white;
+    border-radius: 15px;
+    padding: 10px;
+}
+.me{
+
+ display: flex horizontal; width: 300px; height: 300px;
+ justify-content:flex-start;
+ margin-right: right 30px; 
+ padding-left:30px ;
+ box-shadow: rgb(11, 11, 138) 12px 12px 12px ;  
+}
+.sir{
+    display: flex horizontal; width: 300px; height: 300px;
+    justify-content: flex-start;
+    margin-right:50px ;
+    padding-left:50px ;
+    box-shadow: rgb(173, 28, 108) 15px 15px 15px 15px;
+}
+.images{
+    box-shadow:25px 25px 25px yellow ;
+}
